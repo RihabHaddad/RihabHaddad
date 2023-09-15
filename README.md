@@ -2,7 +2,7 @@
 
 ## 🌍 About Me
 
- I'm a passionate Cloud Engineer based in Tunis, Tunisia. My goal for 2023 is to contribute more to open-source projects and expand my skills in cloud technologies.
+ I'm a passionate Cloud/DevOps Engineer based in Tunis, Tunisia. My goal for 2023 is to contribute more to open-source projects and expand my skills in cloud technologies.
 
 
 ### DevOps Skills
