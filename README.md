@@ -19,6 +19,7 @@ I'm Rihab Haddad, a passionate Cloud/DevOps Engineer based in Tunis, Tunisia. In
 <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="36" height="36" alt="Openshift" />
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="36" height="36" alt="Grafana" />
 </p>
+
 ## 💻 Programming Palette
 
 <p align="left">
