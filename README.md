@@ -11,30 +11,36 @@ I'm Rihab Haddad, a passionate Cloud/DevOps Engineer based in Tunis, Tunisia. In
 
 ## 🚀 DevOps Toolbox
 
-![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
-![Openshift](https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg)
-![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Kubernetes" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" />
+ <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="36" height="36" alt="Ansible" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36" alt="Jenkins" />
+<img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="36" height="36" alt="Openshift" />
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="36" height="36" alt="Grafana" />
+</p>
 ## 💻 Programming Palette
 
-![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)
-![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)
-![Angular](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg)
-![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
-![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)
-![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" />
+</p>
 
 ## ☁️ Cloud Platforms
 
-![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg)
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure" />
+</p>
+
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/rihab-haddad)
+<p align="left"> <a href="https://www.linkedin.com/in/rihab-haddad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ## 📈 GitHub Stats
 
