@@ -12,7 +12,12 @@
 - 💞️ I'm eager to collaborate on captivating and challenging projects, pushing boundaries together. <br/>
 - 📫 Reach out to me at Rihab.haddad@esprit.tn Let's connect and create something remarkable! <br/>
 
-
+## Languages and Tools 
+<div>
+| Docker | Kubernetes | Jenkins | Ansible | Terraform | AWS | GCP | Azure |
+|--------|------------|---------|---------|-----------|-----|-----|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftazure/microsoftazure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> |
+</div>
 ### :fire: My Stats :
 <p align="center">
 <a href="http://www.github.com/RihabHaddad">
