@@ -1,4 +1,11 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/rihab-haddad/" target="_blank" rel="noreferrer">
+      <img height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 <br/> <br/>
 - 👋 Greetings, I'm Rihab Haddad! <bf/>
 - 👀 I'm passionate about Cloud Computing and DevOps. <br/>
