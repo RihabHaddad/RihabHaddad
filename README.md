@@ -48,7 +48,6 @@ I'm Rihab Haddad, a passionate Cloud/DevOps Engineer based in Tunis, Tunisia. In
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RihabHaddad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RihabHaddad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?username=RihabHaddad&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RihabHaddad&theme=algolia" alt="GitHub Streak" /></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RihabHaddad)](https://git.io/streak-stats)
