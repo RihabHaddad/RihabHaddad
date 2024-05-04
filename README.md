@@ -42,9 +42,13 @@ I'm Rihab Haddad, a passionate Cloud/DevOps Engineer based in Tunis, Tunisia. In
 
 <p align="left"> <a href="https://www.linkedin.com/in/rihab-haddad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-## 📈 GitHub Stats
-
-<a href="http://www.github.com/RihabHaddad"><img src="https://github-readme-stats.vercel.app/api?username=RihabHaddad&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Rihab's GitHub stats" /></a>
+### :fire: My Stats :
+<p align="center">
+<a href="http://www.github.com/RihabHaddad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RihabHaddad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RihabHaddad&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?username=RihabHaddad&theme=algolia" alt="GitHub Streak" /></a>
+</p>
 
 
