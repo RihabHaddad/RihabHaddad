@@ -1,9 +1,10 @@
-👋 Greetings, I'm Rihab Haddad!
-👀 I'm passionate about Cloud Computing and DevOps.
-🌱 Currently, I thrive as a Cloud and DevOps Engineer, exploring innovative solutions.
-💞️ I'm eager to collaborate on captivating and challenging projects, pushing boundaries together.
-📫 Reach out to me at Rihab.haddad@esprit.tn Let's connect and create something remarkable!
 
+<br/> <br/>
+- 👋 Greetings, I'm Rihab Haddad! <bf/>
+- 👀 I'm passionate about Cloud Computing and DevOps. <br/>
+- 🌱 Currently, I thrive as a Cloud and DevOps Engineer, exploring innovative solutions. <br/>
+- 💞️ I'm eager to collaborate on captivating and challenging projects, pushing boundaries together. <br/>
+- 📫 Reach out to me at Rihab.haddad@esprit.tn Let's connect and create something remarkable! <br/>
 
 
 ### :fire: My Stats :
