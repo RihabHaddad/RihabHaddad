@@ -51,4 +51,4 @@ I'm Rihab Haddad, a passionate Cloud/DevOps Engineer based in Tunis, Tunisia. In
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?username=RihabHaddad&theme=algolia" alt="GitHub Streak" /></a>
 </p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RihabHaddad)](https://git.io/streak-stats)
