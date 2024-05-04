@@ -6,7 +6,7 @@
   </div>
 </div>
 <br/> <br/>
-- 👋 Greetings, I'm Rihab Haddad! <bf/>
+- 👋 Greetings, I'm Rihab Haddad! <br/>
 - 👀 I'm passionate about Cloud Computing and DevOps. <br/>
 - 🌱 Currently, I thrive as a Cloud and DevOps Engineer, exploring innovative solutions. <br/>
 - 💞️ I'm eager to collaborate on captivating and challenging projects, pushing boundaries together. <br/>
